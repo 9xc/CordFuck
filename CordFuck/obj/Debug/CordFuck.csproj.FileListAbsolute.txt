@@ -1,0 +1,16 @@
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\bin\Debug\CordFuck.exe.config
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\bin\Debug\CordFuck.exe
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\bin\Debug\CordFuck.pdb
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.csproj.AssemblyReference.cache
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.CordFuck.resources
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.Properties.Resources.resources
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.csproj.GenerateResource.cache
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.csproj.CoreCompileInputs.cache
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.csproj.CopyComplete
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.exe
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.pdb
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\bin\Debug\Leaf.xNet.xml
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.SubForms.WebHook.resources
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RookieThaGawd\source\repos\CordFuck\CordFuck\obj\Debug\CordFuck.csproj.Fody.CopyLocal.cache
